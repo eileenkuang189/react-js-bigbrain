@@ -1,6 +1,6 @@
 # ReactJS Project: BigBrain
-An innovative lightweight quiz platform for millenials based off popular quiz app, Kahoot.
-
+_An innovative lightweight quiz platform for millenials based off popular quiz app, Kahoot.
+_
 ## Features
  * Admin Auth
  * Admin creating and editing a game
